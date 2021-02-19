@@ -1,1 +1,1 @@
-Este es el papi de los archivos txt porque estan en el master....y el master es el duro de las mamis
+Este es un archivo que està en el block de nota de la rama 1 y asi se queda. Auque haya conflictos
